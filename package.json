@@ -32,7 +32,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@nuxtjs/google-analytics": "^2.4.0",
-    "@nuxtjs/sentry": "^5.1.7",
+    "@nuxtjs/sentry": "^8.0.8",
     "@nuxtjs/svg": "^0.3.0",
     "@sentry/node": "^8.7.0",
     "algoliasearch": "^4.12.1",
@@ -51,7 +51,7 @@
     "instantsearch.css": "^7.4.5",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.7",
-    "nuxt": "^2.17.3",
+    "nuxt": "^3.12.4",
     "prismjs": "^1.27.0",
     "semver-sort": "0.0.4",
     "sitemap": "^7.1.1",
